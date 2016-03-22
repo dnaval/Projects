@@ -1,4 +1,4 @@
-This is a small help you to export data from a Mysql database to excel
+This is a small app to help you to export data from a Mysql database to excel
 - You have to modify the connexion parameters in the Config folder
 - You have to import the test.sql file
 - Place this folder in your www in wampserver.
